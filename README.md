@@ -36,6 +36,9 @@ Walk through algorithms with test values
 
 PREVENTATIVE
 
+Unit Testing
+Writing Pure Functions (vs Impure functions)
+
 
 
 
